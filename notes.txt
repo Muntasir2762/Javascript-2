@@ -1,0 +1,44 @@
+
+
+894375
+
+
+5
+
+-4
+
+
+
+-4 -3 -2 -1 0 1 2 3 4 5 6 7
+
+1. Find a given number is positive or negative?
+
+==, >, <, >=, <=
+
+
+87578
+
+
+4/2 = 2 0
+5/2 = 2 1
+
+2. Find a given number is even or odd?
+
+76
+
+
+80-100 = A+
+70-79  = A
+60-69  = A-
+50-59  = B
+40-49  = C
+33-39  = D
+less than 33 = F
+
+
+less than 0 or greater than 100 => Invalid Mark
+
+logical Operator
+
+|| => or
+&& => and
